@@ -2,6 +2,7 @@ Youtube UI using React & Material UI
 
 - Search for anything just like you do on Youtube.
 - First 5 results of actual results are dynamically fetched and displayed
+- All of the videos can be played
 
 Try it out : https://fabulous-mooncake-e83a6e.netlify.app/
 
